@@ -1,14 +1,12 @@
 # Blazeit Tool
 
 Blazeit is a command-line tool designed to quickly generate boilerplate files for a Spring Boot project. Using Blazeit, developers can automatically create essential components like Controllers, Services, and Repositories with minimal setup.
-
-This README guides you through setting up **Blazeit** using **Scoop** and **JBang** on Windows.
+Just setup once with three commands and use it all the time with just **one command** everytime you want quick setup .
 
 ## Setting Up Blazeit Using Scoop
 
-Follow the steps below to set up **Blazeit** and start using it for generating Spring Boot files in your project. This guide assumes you are on **Windows** and using **PowerShell**.
-
-### Step 1: Install Scoop (if not already installed)
+Follow the steps below to set up **Blazeit** and start using it for generating Spring Boot files in your project. This guide assumes you are on **Windows** and using **PowerShell**.  
+Here are steps to install scoop,jbang to setup once .
 
 Scoop is a command-line installer for Windows that helps you install and manage software easily.
 
