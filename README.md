@@ -2,7 +2,7 @@
 
 Blazeit is a command-line tool designed to quickly generate boilerplate files for a Spring Boot project. Using Blazeit, developers can automatically create essential components like Controllers, Services, and Repositories with minimal setup.  
   
-Just setup once with three commands and use it all the time with just **one command** everytime you want quick setup .
+Just setup once with three commands and use it all the time with just **one command** everytime you want quick setup.
 
 ## Setting Up Blazeit Using Scoop
 
