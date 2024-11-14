@@ -1,0 +1,9 @@
+{
+    "aliases": {
+      "blazeit": {
+        "script-ref": "https://github.com/dev-m03/blazeit/blob/main/blazeit.jar",
+        "description": "A tool that can be used to quickly setup your springboot project just with two commands."
+      }
+    }
+  }
+  
