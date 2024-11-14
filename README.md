@@ -28,11 +28,11 @@ The above three simple steps will setup blazeit on your system .
     jbang blazeit@mdev <class name> <package name>
 Provide the class and package names when prompted. Blazeit will automatically generate the following files in your project:
 
-Controller class in src/main/java/{packageName}/controller/
-Service class in src/main/java/{packageName}/service/
-Repository interface in src/main/java/{packageName}/repository/
+Controller class in src/main/java/{packageName}/controller/  
+Service class in src/main/java/{packageName}/service/  
+Repository interface in src/main/java/{packageName}/repository/  
 
-The generated files will include boilerplate code for the Controller, Service, and Repository based on the names you provided.
+The generated files will include boilerplate code for the Controller, Service, and Repository based on the names you provided.  
 
 By following these steps, developers will be able to easily set up Blazeit on their local machine using Scoop, and generate Spring Boot files automatically in their projects.
     
